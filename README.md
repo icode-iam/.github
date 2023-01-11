@@ -1,1 +1,1 @@
-# .github
+Readme for this team!
